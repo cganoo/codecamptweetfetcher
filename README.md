@@ -2,7 +2,8 @@ Tweet Fetcher
 ========
 
 A simple AWS Lambda function written in Java which periodically fetches latest tweets from Twitter.
-Used as a demo for my [Socal CodeCamp 2015](http://socalcodecamp.net/) talk
+
+Used as a demo in my [Socal CodeCamp 2015](http://socalcodecamp.net/) talk. You can find slides from that talk [here](http://www.slideshare.net/caganoo/socal-code-camp-2015-an-introduction-to-java-8).
 
 ## How to use this?
 
